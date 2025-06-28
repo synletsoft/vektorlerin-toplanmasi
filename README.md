@@ -1,0 +1,2 @@
+# vektorlerin-toplanmasi
+
